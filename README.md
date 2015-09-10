@@ -41,7 +41,7 @@ getConferenceSessions:  returns all sessions ,  given a conference.
 getConferenceSessionsByType:  returns all applicable sessions,given a conference and session type.
 getSessionsBySpeaker:  returns all sessions across all conferences,given a speaker.
 
-For the Speaker model design, following datastore properties:
+For the Session model design, following datastore properties:
 
 Property	Type
 name	string, required
